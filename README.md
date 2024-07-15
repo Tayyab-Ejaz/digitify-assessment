@@ -1,6 +1,6 @@
 # Digitify Project
 
-A brief description of what your project does.
+A test project built with ❤️ for amazing people. It is based on React.js powered by love. 
 
 ## Features
 
@@ -12,7 +12,14 @@ A brief description of what your project does.
 
    ```bash
    git clone https://github.com/Tayyab-Ejaz/digitify-assessment.git
-   cd your-repo-name
+   cd digitify-assessment
+
+
+2. Run the project:
+
+```bash
+   npm install
+   npm start
 
 
 ### `npm test`
